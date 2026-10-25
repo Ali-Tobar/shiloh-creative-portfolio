@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620">
+  <rect width="800" height="620" fill="#e9e6d9"/>
+  <rect x="28" y="26" width="744" height="568" rx="12" fill="#fbfaf5"/>
+  <text x="66" y="76" fill="#314b3c" font-family="Arial,sans-serif" font-size="26" font-weight="700">flora &amp; co.</text>
+  <text x="485" y="72" fill="#59675a" font-family="Arial,sans-serif" font-size="13">SHOP  ABOUT  JOURNAL</text>
+  <rect x="52" y="104" width="696" height="360" rx="6" fill="#d9e1d2"/>
+  <text x="88" y="190" fill="#314b3c" font-family="Arial,sans-serif" font-size="16">BRING A LITTLE GREEN HOME</text>
+  <text x="88" y="240" fill="#26392e" font-family="Georgia,serif" font-size="42">Plants for</text>
+  <text x="88" y="288" fill="#26392e" font-family="Georgia,serif" font-size="42">slower living.</text>
+  <rect x="88" y="320" width="132" height="42" rx="21" fill="#314b3c"/>
+  <text x="111" y="347" fill="#fff" font-family="Arial,sans-serif" font-size="14">SHOP PLANTS</text>
+  <ellipse cx="565" cy="403" rx="116" ry="18" fill="#a7b19d"/>
+  <path d="M507 292h116l-14 105h-88z" fill="#c8875a"/>
+  <path d="M562 302c-49-50-22-103 5-121 7 41 29 65 17 103 39-52 71-47 82-40-18 35-46 55-92 65m-25-23c-49-7-72-41-68-68 33 12 55 27 68 55-3-43 14-68 36-78 10 38 1 71-28 101" fill="#54755d"/>
+  <rect x="52" y="482" width="210" height="72" rx="5" fill="#f1eee4"/>
+  <rect x="278" y="482" width="210" height="72" rx="5" fill="#f1eee4"/>
+  <rect x="504" y="482" width="244" height="72" rx="5" fill="#f1eee4"/>
+  <text x="72" y="526" fill="#46584a" font-family="Arial,sans-serif" font-size="14">Thoughtful plants</text>
+  <text x="298" y="526" fill="#46584a" font-family="Arial,sans-serif" font-size="14">Made for your home</text>
+  <text x="524" y="526" fill="#46584a" font-family="Arial,sans-serif" font-size="14">Free delivery over $50</text>
+</svg>

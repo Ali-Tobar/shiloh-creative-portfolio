@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620">
+  <rect width="800" height="620" fill="#efe6d9"/>
+  <rect x="28" y="26" width="744" height="568" rx="12" fill="#fffaf2"/>
+  <rect x="28" y="26" width="744" height="54" rx="12" fill="#fffaf2"/>
+  <text x="64" y="62" fill="#493329" font-family="Georgia,serif" font-size="23" font-weight="700">SUNDAY</text>
+  <text x="650" y="59" fill="#725a4c" font-family="Arial,sans-serif" font-size="12">MENU  VISIT US</text>
+  <rect x="52" y="96" width="696" height="350" rx="8" fill="#b87551"/>
+  <circle cx="566" cy="274" r="132" fill="#d39a70"/>
+  <circle cx="566" cy="274" r="100" fill="#f0d8b9"/>
+  <circle cx="566" cy="274" r="78" fill="#633e2d"/>
+  <path d="M531 275c17-40 61-42 77-5-21 30-48 45-77 5" fill="#d1a66f"/>
+  <text x="88" y="177" fill="#fff5e9" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">GOOD COFFEE, GOOD DAYS</text>
+  <text x="88" y="236" fill="#fffaf2" font-family="Georgia,serif" font-size="48">Your new</text>
+  <text x="88" y="291" fill="#fffaf2" font-family="Georgia,serif" font-size="48">favorite place.</text>
+  <text x="90" y="330" fill="#f7e5d6" font-family="Arial,sans-serif" font-size="15">Coffee roasted with care. Served with a smile.</text>
+  <rect x="88" y="357" width="132" height="42" rx="21" fill="#fffaf2"/>
+  <text x="112" y="383" fill="#493329" font-family="Arial,sans-serif" font-size="13">VIEW MENU</text>
+  <text x="72" y="493" fill="#493329" font-family="Georgia,serif" font-size="23">Freshly brewed, every morning.</text>
+  <text x="72" y="526" fill="#79695c" font-family="Arial,sans-serif" font-size="14">OPEN DAILY  7:00 AM — 6:00 PM</text>
+  <rect x="570" y="474" width="148" height="54" rx="27" fill="#493329"/>
+  <text x="601" y="507" fill="#fffaf2" font-family="Arial,sans-serif" font-size="13">FIND US</text>
+</svg>

@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": "flora-shop",
+      "title": "Flora & Co.",
+      "category": "E-commerce website",
+      "thumbnail": "/images/projects/flora-shop.svg",
+      "description": "A natural, modern online plant store."
+    },
+    {
+      "id": "atelier-studio",
+      "title": "Atelier Studio",
+      "category": "Creative portfolio",
+      "thumbnail": "/images/projects/atelier-studio.svg",
+      "description": "A portfolio website for a creative studio."
+    },
+    {
+      "id": "sunday-coffee",
+      "title": "Sunday Coffee",
+      "category": "Restaurant website",
+      "thumbnail": "/images/projects/sunday-coffee.svg",
+      "description": "A warm landing page for a neighborhood coffee shop."
+    },
+    {
+      "id": "northline",
+      "title": "Northline",
+      "category": "Agency website",
+      "thumbnail": "/images/projects/northline.svg",
+      "description": "A bold website for a digital agency."
+    }
+  ]
+}

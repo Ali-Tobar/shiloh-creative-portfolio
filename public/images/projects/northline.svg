@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620">
+  <rect width="800" height="620" fill="#151a20"/>
+  <rect x="28" y="26" width="744" height="568" rx="12" fill="#f1eee9"/>
+  <rect x="28" y="26" width="744" height="62" rx="12" fill="#f1eee9"/>
+  <text x="66" y="67" fill="#18202a" font-family="Arial,sans-serif" font-size="22" font-weight="700">NORTHLINE®</text>
+  <text x="570" y="63" fill="#26303a" font-family="Arial,sans-serif" font-size="13">WHAT WE DO  ABOUT  CONTACT</text>
+  <rect x="52" y="108" width="696" height="350" rx="6" fill="#df704f"/>
+  <path d="M410 108h338v350H410z" fill="#252d34"/>
+  <path d="M411 458 748 158v300z" fill="#39444c"/>
+  <text x="84" y="171" fill="#fff4e8" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">INDEPENDENT DIGITAL AGENCY</text>
+  <text x="84" y="239" fill="#fffaf4" font-family="Arial,sans-serif" font-size="45" font-weight="700">Make your</text>
+  <text x="84" y="293" fill="#fffaf4" font-family="Arial,sans-serif" font-size="45" font-weight="700">next move.</text>
+  <text x="86" y="334" fill="#f9d9c9" font-family="Arial,sans-serif" font-size="15">Strategy, design and technology for what's next.</text>
+  <circle cx="579" cy="279" r="98" fill="#e98c68"/>
+  <path d="M528 303 574 210l57 93h-34l-22-37-18 37z" fill="#fff1e5"/>
+  <text x="76" y="509" fill="#202831" font-family="Arial,sans-serif" font-size="21" font-weight="700">We turn ambitious ideas into digital experiences.</text>
+  <text x="76" y="544" fill="#73777a" font-family="Arial,sans-serif" font-size="14">BRAND STRATEGY  /  WEB DESIGN  /  DEVELOPMENT</text>
+</svg>
